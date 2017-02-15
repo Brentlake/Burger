@@ -1,0 +1,35 @@
+h1{
+	text-align:center;
+	color:blue;
+	font-size:75px;
+}
+
+body{
+	background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlg0xgc5b8cGm7Wc5ehiI2E8d8143b8vERI0BPsmVUGeiKckz4bA);
+
+}
+
+h2{
+	color:blue;
+	text-align:center;
+	font-size:50px;
+}
+.form-group{
+	float:center;
+}
+
+
+
+button{
+	margin-left:615px;
+}
+
+label{
+	color:white;
+	margin-left:585px;
+	font-size:25px;
+}
+input{
+
+	margin-left:570px;
+}
